@@ -2,6 +2,11 @@
 Este projeto simula a captura de dados ambientais usando sensores e fornece visualizações e análises básicas desses dados. O script gera dados simulados para temperatura, 
 pH da água, nível de poluição e índice de biodiversidade. Em seguida, exibe esses dados em formato tabular e gráfico, além de calcular e interpretar as médias dos dados coletados.
 
+# Integrantes
+- Gustavo Morais RM554972
+- Leonardo Novaes RM554807
+- Miguel Carmo RM557622
+
 ## Funcionalidades
 - Captura de dados simulados de sensores.
 - Exibição dos dados capturados em formato tabular.
