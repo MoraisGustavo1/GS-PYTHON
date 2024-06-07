@@ -37,3 +37,6 @@ pH da água, nível de poluição e índice de biodiversidade. Em seguida, exibe
 
 ### Execute o script:
 - python seu_script.py
+
+- ### Video explicativo sobre o projeto:
+- https://www.youtube.com/watch?v=utEpFDh2abw
